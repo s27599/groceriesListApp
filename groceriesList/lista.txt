@@ -1,0 +1,1 @@
+[{"name": "jajka", "quantity": 2, "category": "jajeczne", "price": 5.6, "notes": "bez GMO", "bought": false}, {"name": "boczek", "quantity": 2, "category": "mieso", "price": 8.4, "notes": "", "bought": false}, {"name": "mas\u0142o", "quantity": 1, "category": "t\u0142uszcz", "price": 5.99, "notes": "", "bought": false}]
