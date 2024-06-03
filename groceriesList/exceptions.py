@@ -1,6 +1,3 @@
-# class ProductNotFoundError(Exception):
-#     pass
-#
-#
-# class InvalidQuantityError(Exception):
-#     pass
+class ProductNotFoundError(Exception):
+    """product not found"""
+    pass
